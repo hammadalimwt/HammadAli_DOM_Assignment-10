@@ -1,0 +1,17 @@
+body{
+font-family: Arial;
+padding:40px;
+}
+
+li{
+margin:10px 0;
+}
+
+.completed{
+text-decoration: line-through;
+color: gray;
+}
+
+button{
+margin-left:5px;
+}
